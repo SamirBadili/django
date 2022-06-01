@@ -72,13 +72,9 @@ Food bank is a food review posting site developed in Django. Where user can Regi
     <img src="https://user-images.githubusercontent.com/19981097/54107124-6e243200-4402-11e9-9f4c-20c1c83503e9.png" width="100%"</img> 
 </div>
 
-<h2>Author</h2>
-<blockquote>
-  Mahmudul alam<br>
-  Email: expelmahmud@gmail.com
-</blockquote>
+
 
 <div align="center">
-    <h3>========Thank You !!!=========</h3>
+    <h3>========Thank You For Attention !!!=========</h3>
 </div>
 
